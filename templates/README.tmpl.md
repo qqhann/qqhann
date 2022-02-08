@@ -1,0 +1,26 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqhann&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<!-- Thanks: https://github.com/muesli/readme-scribe -->
+#### 🌱 Recent Projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{if ne (len .Description) 0}} - {{.Description}}{{end}}
+{{- end}}
+
+#### 👯 Recent Contributions
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}){{if ne (len .Repo.Description) 0}} - {{.Repo.Description}}{{end}}
+{{- end}}
