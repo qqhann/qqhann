@@ -6,4 +6,15 @@
 
 
 #### 🌱 Recent Contributions
-- [CommentScreen/apidocs](https://github.com/CommentScreen/apidocs) (3 weeks ago)- [oreilly-japan/deep-learning-from-scratch-4](https://github.com/oreilly-japan/deep-learning-from-scratch-4) (2 months ago)- [tommy19970714/fairseq_docker](https://github.com/tommy19970714/fairseq_docker) (10 months ago) - training wav2vec docker- [huggingface/transformers](https://github.com/huggingface/transformers) (10 months ago) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+- [qqhann/AtCoder](https://github.com/qqhann/AtCoder) (1 month ago) - My AtCoder answers
+- [qqhann/zenn-docs](https://github.com/qqhann/zenn-docs) (1 month ago) - Zenn articles by qqhann
+- [qqhann/Mancala](https://github.com/qqhann/Mancala) (1 month ago) - Mancala board game, written in python. The rule is Kalah and can be extended. 
+- [qqhann/OfflineRLTutorial](https://github.com/qqhann/OfflineRLTutorial) (2 months ago) - A clone of https://sites.google.com/view/offlinerltutorial-neurips2020/home, with type annotation
+- [qqhann/KnowledgeTracing](https://github.com/qqhann/KnowledgeTracing) (2 months ago) - Customizable Deep Knowledge Tracing models and reproducible experimental scripts in one place.
+- [qqhann/shadow-shell-studio-lp](https://github.com/qqhann/shadow-shell-studio-lp) (3 months ago)
+- [qqhann/LipNet-JP](https://github.com/qqhann/LipNet-JP) (4 months ago) - JPHACKS　日本語で読唇術をやっていくよ
+- [qqhann/qqhann.github.io](https://github.com/qqhann/qqhann.github.io) (10 months ago)
+- [qqhann/hugo-primer](https://github.com/qqhann/hugo-primer) (11 months ago) - Hugo theme based on GitHub&#39;s Primer CSS
+- [qqhann/blog-archived](https://github.com/qqhann/blog-archived) (11 months ago) - You may use this repo as an example to use hugo-primer, but please note that the blog content&#39;s copyright belongs to Qiushi Pan
+- [qqhann/blog-template](https://github.com/qqhann/blog-template) (11 months ago)
