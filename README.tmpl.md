@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <!-- Thanks: https://github.com/muesli/readme-scribe -->
 <!-- Thanks: https://github.com/muesli/markscribe -->
 #### 🌱 Recent Contributions
-{{range recentContributions 10}}{{if eq (slice .Repo.Name 0 6) "qqhann"}}{{else}}
+{{range recentContributions 20}}{{if eq (slice .Repo.Name 0 6) "qqhann"}}{{else}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}){{if ne (len .Repo.Description) 0}} - {{.Repo.Description}}{{end}}{{end}}
 {{- end}}
