@@ -4,15 +4,8 @@
 
 
 
-#### 🌱 Recent Projects
 
-- [qqhann/zenn-docs](https://github.com/qqhann/zenn-docs) - Zenn articles by qqhann
-- [qqhann/OfflineRLTutorial](https://github.com/qqhann/OfflineRLTutorial) - A clone of https://sites.google.com/view/offlinerltutorial-neurips2020/home, with type annotation
-- [qqhann/shadow-shell-studio-lp](https://github.com/qqhann/shadow-shell-studio-lp)
-- [qqhann/qqhann.github.io](https://github.com/qqhann/qqhann.github.io)
-- [qqhann/blog-template](https://github.com/qqhann/blog-template)
-
-#### 👯 Recent Contributions
+#### 🌱 Recent Contributions
 
 - [CommentScreen/apidocs](https://github.com/CommentScreen/apidocs) (3 weeks ago)
 - [qqhann/AtCoder](https://github.com/qqhann/AtCoder) (1 month ago) - My AtCoder answers
