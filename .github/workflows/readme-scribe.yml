@@ -16,7 +16,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       with:
-        template: templates/README.tmpl.md
+        template: README.tmpl.md
         writeTo: README.md
 
     - uses: actions/upload-artifact@v1
