@@ -2,17 +2,20 @@
 
 
 
-<!--
-**qqhann/qqhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Recent Projects
+
+- [qqhann/zenn-docs](https://github.com/qqhann/zenn-docs) - Zenn articles by qqhann
+- [qqhann/OfflineRLTutorial](https://github.com/qqhann/OfflineRLTutorial) - A clone of https://sites.google.com/view/offlinerltutorial-neurips2020/home, with type annotation
+- [qqhann/shadow-shell-studio-lp](https://github.com/qqhann/shadow-shell-studio-lp)
+- [qqhann/qqhann.github.io](https://github.com/qqhann/qqhann.github.io)
+- [qqhann/blog-template](https://github.com/qqhann/blog-template)
+
+#### 👯 Recent Contributions
+
+- [CommentScreen/apidocs](https://github.com/CommentScreen/apidocs) (3 weeks ago)
+- [qqhann/AtCoder](https://github.com/qqhann/AtCoder) (1 month ago) - My AtCoder answers
+- [qqhann/zenn-docs](https://github.com/qqhann/zenn-docs) (1 month ago) - Zenn articles by qqhann
+- [qqhann/Mancala](https://github.com/qqhann/Mancala) (1 month ago) - Mancala board game, written in python. The rule is Kalah and can be extended. 
+- [qqhann/OfflineRLTutorial](https://github.com/qqhann/OfflineRLTutorial) (2 months ago) - A clone of https://sites.google.com/view/offlinerltutorial-neurips2020/home, with type annotation
