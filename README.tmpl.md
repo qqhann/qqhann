@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- Thanks: https://github.com/muesli/readme-scribe -->
-#### 🌱 Recent Projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{if ne (len .Description) 0}} - {{.Description}}{{end}}
-{{- end}}
-
-#### 👯 Recent Contributions
+<!-- https://github.com/muesli/markscribe -->
+#### 🌱 Recent Contributions
 {{range recentContributions 5}}
+{{if ne .Repo.
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}){{if ne (len .Repo.Description) 0}} - {{.Repo.Description}}{{end}}
 {{- end}}
