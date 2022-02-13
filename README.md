@@ -7,6 +7,7 @@
 
 #### 🌱 Recent Contributions
 
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) (1 week ago) - DevToys For mac
 - [CommentScreen/apidocs](https://github.com/CommentScreen/apidocs) (3 weeks ago)
 - [oreilly-japan/deep-learning-from-scratch-4](https://github.com/oreilly-japan/deep-learning-from-scratch-4) (2 months ago)
 - [tommy19970714/fairseq_docker](https://github.com/tommy19970714/fairseq_docker) (10 months ago) - training wav2vec docker
